@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "mytestapp",
+    "packageName": "com.mytestapp",
+    "packageFolder": "com/mytestapp",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "14cfc7ccdbb827724e7a951adc493f62efd773da"
+  }
+}
